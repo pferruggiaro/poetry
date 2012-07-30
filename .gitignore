@@ -1,7 +1,4 @@
-.DS_Store
-Thumbs.db  # don't even THINK about it
 build/
 logs/
 *.log
 !monkey.log
-
