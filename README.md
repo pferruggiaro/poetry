@@ -5,5 +5,8 @@
 * Diffing
 * Branching
 * Merging
+* Rebasing
+* Resetting
+* Reverting
 * AND MOAR!
 
