@@ -11,9 +11,8 @@ drwx------+  47 tlberglund  staff  1598 Jul 28 14:44 Pictures
 drwxr-xr-x+   5 tlberglund  staff   170 Jul 25 17:13 Public
 drwxr-xr-x   51 tlberglund  staff  1734 Jul 26 11:11 Purchased Software
 drwxr-xr-x  106 tlberglund  staff  3604 Jul 26 10:03 code
-drwxr-xr-x    4 tlberglund  staff   136 Jul 26 10:03 emacs-starter-kit.git
 drwxr-xr-x    5 tlberglund  staff   170 Jul 26 10:03 github
--rw-r--r--    1 tlberglund  staff  1224 Jul 30 06:34 old-zshrc
+-rw-r--r--    1 tlberglund  staff  1224 Jul 30 06:34 busted-zshrc
 drwxr-xr-x    6 tlberglund  staff   204 Jul 26 10:32 poems
 drwxr-xr-x   14 tlberglund  staff   476 Jul 28 13:07 scripts
 drwxr-xr-x   30 tlberglund  staff  1020 Jul 29 20:48 timberglund.com
