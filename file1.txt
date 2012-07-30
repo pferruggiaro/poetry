@@ -1,1 +1,20 @@
-Some random text: 6145
+total 8
+drwx------+   8 tlberglund  staff   272 Jul 30 09:52 Desktop
+drwx------+  45 tlberglund  staff  1530 Jul 28 02:42 Documents
+drwx------+  17 tlberglund  staff   578 Jul 30 08:09 Downloads
+drwx------@  40 tlberglund  staff  1360 Jul 30 07:23 Dropbox
+drwx------@  52 tlberglund  staff  1768 Jul 30 08:48 Library
+drwx------+  27 tlberglund  staff   918 Jul 28 19:22 Movies
+drwx------+   8 tlberglund  staff   272 Jul 28 14:18 Music
+drwx------   53 tlberglund  staff  1802 Jul 26 10:32 Old Personal Documents
+drwx------+  47 tlberglund  staff  1598 Jul 28 14:44 Pictures
+drwxr-xr-x+   5 tlberglund  staff   170 Jul 25 17:13 Public
+drwxr-xr-x   51 tlberglund  staff  1734 Jul 26 11:11 Purchased Software
+drwxr-xr-x  106 tlberglund  staff  3604 Jul 26 10:03 code
+drwxr-xr-x    4 tlberglund  staff   136 Jul 26 10:03 emacs-starter-kit.git
+drwxr-xr-x    5 tlberglund  staff   170 Jul 26 10:03 github
+-rw-r--r--    1 tlberglund  staff  1224 Jul 30 06:34 old-zshrc
+drwxr-xr-x    6 tlberglund  staff   204 Jul 26 10:32 poems
+drwxr-xr-x   14 tlberglund  staff   476 Jul 28 13:07 scripts
+drwxr-xr-x   30 tlberglund  staff  1020 Jul 29 20:48 timberglund.com
+drwxr-xr-x   16 tlberglund  staff   544 Jul 26 13:46 workshops
