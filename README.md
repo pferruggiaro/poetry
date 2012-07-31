@@ -8,5 +8,5 @@
 * Rebasing
 * Resetting
 * Reverting
-* AND MOAR!
+* Stashing
 
