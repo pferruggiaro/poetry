@@ -10,4 +10,5 @@
 * Reverting
 * Stashing
 * Pushing/pulling
+* About to cover Pull Requests
 
