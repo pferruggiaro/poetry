@@ -9,4 +9,5 @@
 * Resetting
 * Reverting
 * Stashing
+* Pushing/pulling
 
