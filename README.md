@@ -10,5 +10,5 @@
 * Reverting
 * Stashing
 * Pushing/pulling
-* About to cover Pull Requests
+* Now covering Pull Requests
 * Justins collaboration
